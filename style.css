@@ -1,3 +1,13 @@
 body{
-    background-color: red
+    background-color: greenyellow
+}
+header{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+article:first-child {
+    background-color: red;
+    font-style: italic;
+    font-weight: bold;
 }
