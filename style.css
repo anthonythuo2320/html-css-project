@@ -18,9 +18,10 @@ header{
     color: blue;
     font-size: 30px;
 }
-nav:hover{
+nav:hover a:hover{
     background-color: red;
     align-content: space-between;
+
 
     
 }
@@ -29,13 +30,12 @@ article:first-child {
   font-style: italic;
     font-weight: bold ;
           }
-    
-.main-container{
+                 
+    .main-container{
     display: flex;
     flex-direction: row;
     align-items: stretch;
-    
-                 
+                  
 }
 .container2{
      display: flex;
